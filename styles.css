@@ -1,0 +1,21 @@
+button {
+    margin-bottom: 5px
+}
+
+#sketchArea {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 960px;
+    height: 960px;
+}
+
+#row {
+    display: flex;
+    flex-grow: 1;
+}
+
+#pixel {
+    border: 1px solid black;
+    flex-grow: 1;
+}
