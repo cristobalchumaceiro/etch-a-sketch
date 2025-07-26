@@ -1,5 +1,9 @@
 button {
-    margin-bottom: 5px
+    margin: 5px
+}
+
+#mode {
+    margin: 5px;
 }
 
 #sketchArea {
